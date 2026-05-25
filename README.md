@@ -21,8 +21,5 @@ Logistic Regression
 - Accuracy Evaluation
 - Flower Prediction
 
-## Output
-The model predicts iris flower species with high accuracy.
-
 ## Accuracy
 100%
