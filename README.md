@@ -25,4 +25,4 @@ Logistic Regression
 100%
 
 ## Author 
-Rishika M
+Rishika Mali
