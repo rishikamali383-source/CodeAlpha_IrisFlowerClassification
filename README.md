@@ -23,3 +23,6 @@ Logistic Regression
 
 ## Accuracy
 100%
+
+## Author 
+Rishika M
